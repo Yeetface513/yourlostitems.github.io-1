@@ -1,6 +1,6 @@
 # Lost Items!
 
-Welcome to the Lost Items project. This is a website that allows users to check their lost items online. If a user finds an item that they have lost, they can press the claim button to request the aforementioned item. This request will be sent to the administrators of the site for processing.
+Welcome to the Lost Items project. This is a website that allows users to check their lost items online. If a user finds an item that they have lost, they can press the claim button to request the aforementioned item. This request will be sent to the administrators of the site for processing (wip).
 
 ## Features
 
@@ -22,7 +22,7 @@ To install and run this project locally, follow these steps:
 
 To use the Lost Items Finder website, follow these steps:
 
-1. Open your web browser and navigate to the website URL.
+1. Open your web browser and navigate to the [website URL](https://yourlostitems.github.io).
 2. Browse through the lost items in the catalog.
 3. If you find an item you've lost, press the claim button to request it (wip).
 4. Login to your account to be able to claim items (wip).
@@ -35,20 +35,21 @@ This project utilizes the following technologies to enhance the capabilities of 
 - HTML
 - CSS
 - JavaScript
-- Sweat and tears
+- Sweat and tears (suffering)
 
 ## Roadmap
 
 We have the following plans for future development:
 
+- Add a functioning system for the uploading of lost items.
 - Allow users to upload images of lost items.
-- Add a password-protected admin dashboard (this will allow processing of item requests).
+- Add a password-protected admin dashboard to allow the processing of item requests.
 - Improve the user interface and overall design of the website.
 - Enhance the administrator dashboard with more features.
 
 ## Support
 
-If you have any questions or need assistance with the Lost Items Finder project, please make an issue on this repository and we will try our best to fix it. We are commited to supporting our customers no matter what and we hope to foster a vibrant and active community around our excellent product.
+If you have any questions or need assistance with the Lost Items Finder project, please make an issue on this repository and we will try our best to fix it. We are commited to supporting our customers no matter what and we hope to foster a vibrant and active community around our excellent product (please be patient in waiting for a response to the issue).
 
 ## Contributing
 
